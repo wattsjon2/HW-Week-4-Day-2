@@ -18,16 +18,16 @@ INSERT INTO movie(
 	movie_name,
 	runtime)
 VALUES(
-	'Black Hawk Down',
-	'144 min'
+	'Dredd',
+	'95 min'
 );
 
 INSERT INTO movie(
 	movie_name,
 	runtime)
 VALUES(
-	'Apollo 13',
-	'140 min'
+	'Deep Blue Sea',
+	'105 min'
 );
 
 INSERT INTO theater
